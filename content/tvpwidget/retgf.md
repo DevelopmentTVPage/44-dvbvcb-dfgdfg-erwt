@@ -6,7 +6,7 @@
     "layout": "bootstrap",
     "css": {
         ".carousel-arrow": {
-            "carousel_arrow_display": "none"
+            "carousel_arrow_display": "block"
         },
         ".widget-title": {
             "widget_title_display": "none"
