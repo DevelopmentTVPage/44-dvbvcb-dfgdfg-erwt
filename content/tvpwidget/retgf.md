@@ -9,7 +9,7 @@
             "carousel_arrow_display": "none"
         },
         ".widget-title": {
-            "widget_title_display": "none"
+            "widget_title_display": "block"
         }
     }
 }
